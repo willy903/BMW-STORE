@@ -96,6 +96,7 @@
     height: 14rem;
     border-radius: 50px;
     background: #edd0ff;
+    filter: blur(212px);
     z-index: -9;
     top: -18%;
     left: 56%;
